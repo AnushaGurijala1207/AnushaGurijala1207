@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnushaGurijala1207
+- 👋 Hi, I’m AnushaGurijala
 - I'm pursuing my Masters degree from Northwest MIssouri State University.
 - I am from India.
 - 👀 I’m interested in Java
